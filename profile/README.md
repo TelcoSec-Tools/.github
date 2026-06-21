@@ -1,12 +1,21 @@
-## Hi there 👋
+# TelcoSec-Tools 📡⚡
 
-<!--
+Advanced, full-spectrum offensive security utilities and orchestration frameworks built specifically for authorized telecommunications red teaming and network auditing.
 
-**Here are some ideas to get you started:**
+## 🌌 The TelcoSec Ecosystem Architecture
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our tools span the entire telecom network lifecycle—bridging the gap between raw RF air-interfaces and cloud-native 5G environments.
+
+### 🎛️ Orchestration & Management
+* **TelcoSec Operations Console (Enterprise):** A unified JavaFX 21 desktop platform (Catppuccin theme) managing full-stack telecom exploits—from raw SDR/Baseband to IMS/SIP, GTP tunneling, and RCS messaging.
+
+### 📡 Radio & Transport Layers
+* **TelcoChiselOS (Public):** Our bootable Live Linux distribution pre-configured with critical hardware drivers for Software Defined Radio (SDR) and baseband auditing.
+* **SCTPx-Scanner (Private):** A high-performance, memory-safe Rust framework engineered to map and fuzz multi-stream SCTP associations underpinning SS7/Diameter.
+
+### 🔍 Reconnaissance & Identity
+* **RDNSx (Public):** Ultra-fast, concurrent Rust utility tailored for high-volume internal telecom DNS/APN discovery.
+* **SIM-Gryphon (Private):** Hardware-integrated (SIMTrace2) framework for auditing SIM/eSIM filesystems, cryptographic profiles, and OTA provisioning.
+
+---
+🌐 [Explore the Full Platform Suite](https://www.telcosec.net) | 🛡️ Secure Core. Resilient Infrastructure.
