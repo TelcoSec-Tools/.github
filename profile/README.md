@@ -4,6 +4,9 @@ Advanced, full-spectrum offensive security utilities and orchestration framework
 
 Our tools bridge the deep engineering gap between raw RF air-interfaces, legacy telecom transport stacks, and modern cloud-native 5G environments.
 
+<p align="center">
+  <img src="Telcosec-Tools_Cover.png" alt="TelcoSec Offensive Red Team Toolstack" width="100%">
+</p>
 
 ## TelcoSEc Ecosystem
 
